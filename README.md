@@ -23,3 +23,7 @@ redshift = redshift value based on the increase in wavelength
 plate = plate ID, identifies each plate in SDSS
 MJD = Modified Julian Date, used to indicate when a given piece of SDSS data was taken
 fiber_ID = fiber ID that identifies the fiber that pointed the light at the focal plane in each observation
+
+
+![image](https://github.com/katedeng/Stellar-Classification/assets/115319734/ffe1913a-3ef4-42dd-b396-9aaa18258370)
+
